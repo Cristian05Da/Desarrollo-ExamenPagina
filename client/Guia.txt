@@ -1,0 +1,17 @@
+================= GUIA CLIENTE =================
+Nota : las instalaciones se hacen en el terminal del client: ejemplo => D:\Web-Examen\client>
+para ejecutar : yarn start
+para instalar sass : yarn add sass
+cambiar import './index.css'; a import './index.scss';
+instalar : yarn add semantic-ui-react semantic-ui-css
+en public en la carpeta index.html agregar este link:
+<link
+    async
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
+  />
+
+
+  instalar :yarn add lodash 
+  instalar :  yarn add yup formik
+  instalar ;yarn add react-router-dom
